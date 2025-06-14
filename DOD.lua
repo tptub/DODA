@@ -30,7 +30,7 @@ function NotificationManager:createNotification(texto, duracao)
     titleLabel.Size = UDim2.new(1, 0, 0, 25)
     titleLabel.Position = UDim2.new(0, 0, 0, 10)
     titleLabel.BackgroundTransparency = 1
-    titleLabel.Text = "Rael Hub"
+    titleLabel.Text = "I N T E R P O L"
     titleLabel.TextColor3 = Color3.fromRGB(34, 168, 110)
     titleLabel.TextScaled = true
     titleLabel.Font = Enum.Font.ArialBold
